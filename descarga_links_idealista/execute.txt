@@ -1,0 +1,2 @@
+cd C:\Users\Dark Elf\Downloads\descarga_links_idealista\Scrapy-Idealista-master
+scrapy crawl idealista -t csv -o ../Barcelona.csv
